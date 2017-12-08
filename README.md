@@ -10,3 +10,9 @@
 4. Design and discuss an implementation of an API for the display communication that allows others to use and build upon. 
 5. Implement API with proper documentation, examples and testing to allow others to use and build upon the API.
 
+## References
+'K430WQA-V4-F datasheet' 
+http://www.farnell.com/datasheets/1563930.pdf?_ga=2.70071504.13744637.1512721197-1962038112.1511368458
+
+'LPC4757-EVB datasheet'
+http://www.farnell.com/datasheets/1682114.pdf?_ga=2.11507197.893052055.1512721198-1962038112.1511368458
